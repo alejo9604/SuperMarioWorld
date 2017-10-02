@@ -5,6 +5,13 @@
 /[Bb]uilds/
 /Assets/AssetStoreTools*
 
+/SuperMarioWorld/[Ll]ibrary/
+/SuperMarioWorld/[Tt]emp/
+/SuperMarioWorld/[Oo]bj/
+/SuperMarioWorld/[Bb]uild/
+/SuperMarioWorld/[Bb]uilds/
+/SuperMarioWorld/Assets/AssetStoreTools*
+
 # Visual Studio 2015 cache directory
 /.vs/
 
