@@ -13,10 +13,10 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
-  - 
-  - 
+  - Floor
+  - Platform
+  - Background
+  - Chracters
   - 
   - 
   - 
@@ -38,6 +38,18 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: Background
+    uniqueID: 3045432501
+    locked: 0
+  - name: Floor
+    uniqueID: 1224343343
+    locked: 0
+  - name: Platform
+    uniqueID: 2839187995
+    locked: 0
+  - name: Chracters
+    uniqueID: 2458353445
+    locked: 0
   - name: Default
     uniqueID: 0
     locked: 0
